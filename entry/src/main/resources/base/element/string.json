@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Wrist Photo Processor module"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Wrist Photo Processor entry ability"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Wrist Photo Processor"
+    }
+  ]
+}
